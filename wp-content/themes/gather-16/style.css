@@ -1,0 +1,11 @@
+/*
+Theme Name: Gather 16
+Author: Su Yin Khoo
+Author URI: http://gathergather.co.nz/
+Description: Custom theme for post-events
+Template: gather
+Version: 1.0
+*/
+
+/* Styles are where they belong, in assets/css/ */
+@import url("assets/css/gather-tween.css");

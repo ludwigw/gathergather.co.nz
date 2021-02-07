@@ -1,0 +1,24 @@
+                __    __
+               /\ \__/\ \
+   __      __  \ \ ,_\ \ \___      __   _ __
+ /'_ `\  /'__`\ \ \ \/\ \  _ `\  /'__`\/\`'__\
+/\ \L\ \/\ \L\.\_\ \ \_\ \ \ \ \/\  __/\ \ \/
+\ \____ \ \__/.\_\\ \__\\ \_\ \_\ \____\\ \_\
+ \/___L\ \/__/\/_/ \/__/ \/_/\/_/\/____/ \/_/
+   /\____/
+   \_/__/
+
+/* CONF TEAM */
+	Content: Su Yin Khoo (@ksuyin), Rochelle Ivanson (@ri)
+	Design & Dev: Su Yin Khoo (@ksuyin)
+	Advisors: Ludwig Wendzich (@ludwigw)
+
+
+/* WORKSHOPS TEAM */
+	Content: Su Yin Khoo (@ksuyin), Tanya Gray (@tanya), Novia Ng (@n_ng)
+	Design & Dev: Su Yin Khoo (@ksuyin)
+
+/* SITE */
+	Last updated: 31/05/2014
+	Standards: HTML5, CSS3
+	IDE: Sublime, Codekit, Transmit, Illustrator, Photoshop, ImageOptim, SVGO
